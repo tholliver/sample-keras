@@ -18,10 +18,13 @@ Primero se necesita un entorno de python para todos los módulos:
 > conda create -n keras-env python=3.6
 ```
 
-Una vez terminado el proceso se debe ejecutar (Dentro del DIR del proyecto (audio_to_text)):
+Completado el paso anterior activamos el env:
 
+```bash
+> conda activate keras-env
+```
 ```bash 
-> conda install --file requirements.txt
+(keras-env) > conda install --file requirements.txt
 ```
 
 
