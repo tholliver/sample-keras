@@ -1,6 +1,6 @@
 # MODE  
-## Instalación y funcionamiento  
-
+## Instalación y funcionamiento 
+Instalar miniconda desde: [Conda installer](https://docs.conda.io/en/latest/miniconda.html)
 ## Ejecución de programa 
 
 Ejecutar:
